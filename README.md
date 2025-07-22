@@ -35,6 +35,4 @@ Pour déployer ce projet, suivez les étapes ci-dessous :
 > **Clarity** est un outil puissant ⚙️ qui doit être utilisé de manière responsable. L'équipe de développement de Clarity n'est pas responsable des dommages causés par une mauvaise utilisation de cet outil.
 
 ## ©️ Droits d'auteur
-
-© "Clarity Tool" est un service et produit fourni par la marque déposée **HEXOFO™** 2024-2034. Tous droits réservés.  
-Visitez notre site web 🌐 : [hexofo](http://www.hexofo.org)
+License MIT
